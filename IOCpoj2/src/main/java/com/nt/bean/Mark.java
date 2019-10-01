@@ -1,7 +1,7 @@
 package com.nt.bean;
 
 
-public class Mark{
+public class Work{
 	
 	private int m1,m2,m3;
 
